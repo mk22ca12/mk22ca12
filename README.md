@@ -17,6 +17,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mk22ca12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🎮 Play Connect Four!
+Click on a number to make your move!
+
+[1️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+1) | [2️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+2) | [3️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+3) | [4️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+4) | [5️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+5) | [6️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+6) | [7️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+7)
+:---: | :---: | :---: | :---: | :---: | :---: | :---:
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **mk22ca12/mk22ca12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
