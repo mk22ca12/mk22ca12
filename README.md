@@ -21,6 +21,7 @@
 Click on a number to make your move!
 
 [1️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+1) | [2️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+2) | [3️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+3) | [4️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+4) | [5️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+5) | [6️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+6) | [7️⃣](https://github.com/mk22ca12/mk22ca12/issues/new?title=Connect4:+7)
+[1️⃣](...) | [2️⃣](...) | [3️⃣](...) | [4️⃣](...) | [5️⃣](...) | [6️⃣](...) | [7️⃣](...)
 :---: | :---: | :---: | :---: | :---: | :---: | :---:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
