@@ -1,0 +1,5 @@
+- name: Run Game Logic
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          python logic.py
