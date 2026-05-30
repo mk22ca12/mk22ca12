@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 # 💫 About Me:
 🎓I am currently studying Computer Science at HOU.<br>🔭I'm looking to expand my knowledge about computer science careers.<br>📖I have extensive experience with both frontend and backend technologies. <br><br>📧This is my 15y.o. email mixalishh@gmail.com.
